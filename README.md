@@ -1,5 +1,5 @@
 # HPSS Application Example
-A Simple HPSS (Harmonic-Percusive Source Separation) Application Example
+A Simple HPSS (Harmonic-Percussive Source Separation) Application Example
 
 This is a simple Jupyter Notebook with an application example of HPSS Decomposition of 2 iconic introductions of rock songs:
 - ACDC - Back in Black
